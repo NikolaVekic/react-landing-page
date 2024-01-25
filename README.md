@@ -1,3 +1,7 @@
+**NexusAI Website**
+![screencapture-localhost-3000-2024-01-25-16_18_43](https://github.com/NikolaVekic/NexusAI/assets/55920607/8093b88d-5af0-4996-a939-f8a42b44450b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
