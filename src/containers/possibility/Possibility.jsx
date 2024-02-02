@@ -9,18 +9,17 @@ const Possibility = () => {
         <img src={possibilityImage} alt="ai" />
       </div>
       <div className="ai__possibility-content">
-        <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+        <h4>Transformative AI Capabilities.</h4>
         <h1 className="gradient__text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam
-          repellat dolore iusto.
+          Unleash the Power of Intelligent Technologies with NexusAI. Elevate
+          Your Potential.
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloribus
-          provident dolore aut. Fuga eum nobis facilis officia unde accusamus
-          odio quibusdam. Rerum quis veritatis saepe iure itaque. Totam,
-          recusandae ut?
+          Experience the next frontier of artificial intelligence with NexusAI.
+          Our cutting-edge technologies redefine possibilities, offering
+          innovative solutions that adapt to your unique needs.
         </p>
-        <h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h4>
+        <h4>Revolutionizing the Future of AI - Explore the Possibilities.</h4>
       </div>
     </div>
   );

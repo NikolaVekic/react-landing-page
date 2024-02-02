@@ -4,20 +4,20 @@ import Feature from "../../components/feature/Feature";
 
 const featuresData = [
   {
-    title: "Lorem ipsum",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+    title: "Interface",
+    text: "Streamline your experience with our user-friendly interface, designed for effortless navigation and accessibility.",
   },
   {
-    title: "Lorem ipsum",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+    title: "Analytics",
+    text: "Gain deeper insights with our advanced analytics tools, providing real-time data analysis for informed decision-making.",
   },
   {
-    title: "Lorem ipsum",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+    title: "Automation",
+    text: "Enhance efficiency through intelligent automation, allowing you to focus on high-value tasks while NexusAI handles the rest.",
   },
   {
-    title: "Lorem ipsum",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+    title: "Scalability",
+    text: "Grow seamlessly with NexusAI's scalable solutions, adapting to your evolving needs without compromising performance.",
   },
 ];
 
@@ -25,14 +25,8 @@ const Features = () => {
   return (
     <div className="ai__features section__padding" id="features">
       <div className="ai__features-heading">
-        <h1 className="gradient__text">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-          consequatur voluptate nulla!
-        </h1>
-        <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus,
-          ducimus.
-        </p>
+        <h1 className="gradient__text">Empower Your Journey with NexusAI.</h1>
+        <p>Unleashing the Full Potential of AI Innovation.</p>
       </div>
       <div className="ai__features-container">
         {featuresData.map((item, index) => {

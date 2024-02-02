@@ -7,16 +7,13 @@ const Header = () => {
   return (
     <div className="ai__header section__padding" id="home">
       <div className="ai__header-content">
-        <h1 className="gradient__text">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae,
-          accusamus?
-        </h1>
+        <h1 className="gradient__text">Unlock the future with NexusAI.</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-          totam, laborum aliquid hic praesentium quasi sit impedit corporis,
-          ratione architecto blanditiis perspiciatis cum nostrum explicabo vitae
-          doloremque reiciendis quod ea exercitationem autem esse vel harum.
-          Eveniet ut veritatis illum quaerat?
+          Revolutionizing Intelligence - At NexusAI, we redefine the landscape
+          of artificial intelligence. Our solutions transcend boundaries,
+          offering unprecedented opportunities for growth and efficiency.
+          Explore the extraordinary as we guide you through the next frontier of
+          intelligent technology.
         </p>
         <div className="ai__header-content__input">
           <input type="email" placeholder="Your Email address" />
@@ -24,7 +21,7 @@ const Header = () => {
         </div>
 
         <div className="ai__header-content__people">
-          <img src={people} />
+          <img src={people} alt="img" />
           <p>1,600 people requested access in last 24 hours</p>
         </div>
       </div>

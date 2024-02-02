@@ -8,16 +8,11 @@ const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#ai">What is AI?</a>
+      <a href="#ai">About</a>
     </p>
+
     <p>
-      <a href="#possibility">Cybersecurity</a>
-    </p>
-    <p>
-      <a href="#features">Case Studies</a>
-    </p>
-    <p>
-      <a href="#blog">Library</a>
+      <a href="#features">Features</a>
     </p>
   </>
 );

@@ -3,16 +3,6 @@ import "./footer.css";
 
 const Footer = () => (
   <div className="ai__footer section__padding">
-    <div className="ai__footer-heading">
-      <h1 className="gradient__text">
-        Lorem ipsum dolor sit amet consectetur.
-      </h1>
-    </div>
-
-    <div className="ai__footer-btn">
-      <p>Request Early Access</p>
-    </div>
-
     <div className="ai__footer-links">
       <div className="ai__footer-links_logo">
         <h1>NexusAI</h1>
@@ -22,9 +12,9 @@ const Footer = () => (
       </div>
       <div className="ai__footer-links_div">
         <h4>Links</h4>
-        <p>Lorem, ipsum.</p>
-        <p>Lorem, ipsum.</p>
-        <p>Lorem, ipsum.</p>
+        <p>Home</p>
+        <p>About</p>
+        <p>Features</p>
       </div>
       <div className="ai__footer-links_div">
         <h4>Company</h4>
@@ -41,7 +31,7 @@ const Footer = () => (
     </div>
 
     <div className="ai__footer-copyright">
-      <p>@2023 NexusAI All rights reserved.</p>
+      <p>@2024 NexusAI All rights reserved.</p>
     </div>
   </div>
 );

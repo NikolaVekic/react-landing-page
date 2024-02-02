@@ -1,14 +1,7 @@
 import React from "react";
 import "./App.css";
 import { Navbar, Brand, Cta } from "./components";
-import {
-  Footer,
-  Blog,
-  Possibility,
-  Features,
-  WhatAI,
-  Header,
-} from "./containers";
+import { Footer, Possibility, Features, WhatAI, Header } from "./containers";
 
 const App = () => {
   return (
@@ -22,7 +15,6 @@ const App = () => {
       <Features />
       <Possibility />
       <Cta />
-      <Blog />
       <Footer />
     </div>
   );

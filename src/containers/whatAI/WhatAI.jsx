@@ -8,33 +8,27 @@ const WhatAI = () => {
       <div className="ai__whatai-feature">
         <Feature
           title="What is AI"
-          text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet,
-          voluptatum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet,
-          voluptatum."
+          text="Embark on a journey into the future with NexusAI, where artificial intelligence transcends boundaries. Our advanced solutions redefine the way you perceive technology, offering unparalleled possibilities for innovation and efficiency."
         />
       </div>
       <div className="ai__whatai-heading">
         <h1 className="gradient__text">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet,
-          voluptatum!
+          Join the AI Revolution. Elevate Your Experience with NexusAI.
         </h1>
-        <p>Lorem ipsum dolor sit.</p>
+        <p>Empowering Tomorrow, Today.</p>
       </div>
       <div className="ai__whatai-container">
         <Feature
-          title="Title"
-          text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet,
-          voluptatum!"
+          title="Infinite Insights"
+          text="Unlock profound insights with NexusAI, expanding your understanding of data and trends."
         />
         <Feature
-          title="Title"
-          text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet,
-          voluptatum!"
+          title="Effortless Efficiency"
+          text="Redefine operational efficiency through streamlined processes and intelligent automation."
         />
         <Feature
-          title="Title"
-          text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet,
-          voluptatum!"
+          title="Seamless Integration"
+          text="Seamlessly integrate NexusAI into your workflows, enhancing collaboration and adaptability."
         />
       </div>
     </div>
