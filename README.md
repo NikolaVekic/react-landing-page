@@ -11,7 +11,8 @@ NexusAI, a modern React-based web application. This project serves as a versatil
 - **Clean and Readable Code** 
 
 ## Screenshots
-![Uploading screencapture-localhost-3000-2024-02-02-20_23_11.png…]()
+![nexusai](https://github.com/NikolaVekic/NexusAI/assets/55920607/9fb9881d-dbe1-410c-ac1d-00f278ce408b)
+
 
 
 
