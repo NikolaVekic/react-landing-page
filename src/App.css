@@ -59,11 +59,11 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
-.section__padding: {
+.section__padding {
   padding: 4rem 6rem;
 }
 
-.section__margin: {
+.section__margin {
   margin: 4rem 6rem;
 }
 
@@ -102,20 +102,20 @@ a {
 /** ----------------------------------------  */
 
 @media screen and (max-width: 700px) {
-  .section__padding: {
+  .section__padding {
     padding: 4rem;
   }
-  .section__margin: {
+  .section__margin {
     margin: 4rem;
   }
 }
 
 /* Mobile Devices */
 @media screen and (max-width: 550px) {
-  .section__padding: {
+  .section__padding {
     padding: 4rem 2rem;
   }
-  .section__margin: {
+  .section__margin {
     margin: 4rem 2rem;
   }
 }
