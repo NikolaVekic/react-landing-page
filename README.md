@@ -1,5 +1,8 @@
 # NexusAI
 
+## NexusAI - Landingpage
+![nexusai](https://github.com/NikolaVekic/NexusAI/assets/55920607/9fb9881d-dbe1-410c-ac1d-00f278ce408b)
+
 ## Description
 
 NexusAI, a modern React-based web application. This project serves as a versatile template, utilizing modular components and a responsive design.
@@ -9,11 +12,6 @@ NexusAI, a modern React-based web application. This project serves as a versatil
 - **Modular Components** 
 - **Responsive Design** 
 - **Clean and Readable Code** 
-
-## Screenshots
-![nexusai](https://github.com/NikolaVekic/NexusAI/assets/55920607/9fb9881d-dbe1-410c-ac1d-00f278ce408b)
-
-
 
 
 # Getting Started with Create React App
