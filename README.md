@@ -19,7 +19,7 @@ Follow these steps to set up and run the project on your local machine.
 
 Ensure you have the following installed:
 
-- 📦 **npm (Node Package Manager)**
+- **npm (Node Package Manager)**
 
 ### 🛠 Installation
 
