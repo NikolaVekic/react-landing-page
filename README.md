@@ -1,5 +1,5 @@
 
-# 🌐 NexusAI - Landing Page
+# NexusAI - Landing Page
 
 ![NexusAI](https://github.com/NikolaVekic/NexusAI/assets/55920607/9fb9881d-dbe1-410c-ac1d-00f278ce408b)
 
