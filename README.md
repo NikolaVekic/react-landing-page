@@ -4,7 +4,7 @@
 ![NexusAI](https://github.com/NikolaVekic/NexusAI/assets/55920607/9fb9881d-dbe1-410c-ac1d-00f278ce408b)
 
 ## 🚀 NexusAI
-NexusAI is a modern React landing page designed as a versatile template. It features modular components, a responsive design, and clean, readable code.
+Landing page for a modern AI website, build with React and Tailwind CSS.
 
 ## ✨ Features
 
